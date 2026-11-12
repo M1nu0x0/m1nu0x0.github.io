@@ -1,5 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://blog.m1nu0x0.com/wp-sitemap.xml
+Sitemap: https://blog.m1nu0x0.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
